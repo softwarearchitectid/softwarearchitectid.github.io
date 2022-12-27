@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/Users/imantumorang/softwarearchitect.id/landing-page",
+	"sourceRoot": "/home/runner/work/landing-page/landing-page",
 	"sources": [
 		"themes/cactus/assets/scss/style.scss",
 		"themes/cactus/assets/scss/_variables.scss",
